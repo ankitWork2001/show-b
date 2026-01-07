@@ -795,3 +795,6 @@ function App() {
 export default App;
 
 
+
+node_modules
+.env
